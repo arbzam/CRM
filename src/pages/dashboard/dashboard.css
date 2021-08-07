@@ -1,0 +1,7 @@
+.MuiPickersBasePicker-pickerView {
+  margin: 0 auto;
+}
+
+.MuiPickersDatePickerRoot-toolbar {
+  align-items: center !important;
+}
