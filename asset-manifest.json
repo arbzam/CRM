@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CRM/static/css/main.80446640.chunk.css",
+    "main.js": "/CRM/static/js/main.1579453c.chunk.js",
+    "main.js.map": "/CRM/static/js/main.1579453c.chunk.js.map",
+    "runtime-main.js": "/CRM/static/js/runtime-main.3787ce53.js",
+    "runtime-main.js.map": "/CRM/static/js/runtime-main.3787ce53.js.map",
+    "static/js/2.b92f89f7.chunk.js": "/CRM/static/js/2.b92f89f7.chunk.js",
+    "static/js/2.b92f89f7.chunk.js.map": "/CRM/static/js/2.b92f89f7.chunk.js.map",
+    "static/js/3.da057532.chunk.js": "/CRM/static/js/3.da057532.chunk.js",
+    "static/js/3.da057532.chunk.js.map": "/CRM/static/js/3.da057532.chunk.js.map",
+    "index.html": "/CRM/index.html",
+    "static/css/main.80446640.chunk.css.map": "/CRM/static/css/main.80446640.chunk.css.map",
+    "static/js/2.b92f89f7.chunk.js.LICENSE.txt": "/CRM/static/js/2.b92f89f7.chunk.js.LICENSE.txt",
+    "static/media/Logo_Red.8404326e.svg": "/CRM/static/media/Logo_Red.8404326e.svg",
+    "static/media/Logomark_Red.6b2a5e1f.svg": "/CRM/static/media/Logomark_Red.6b2a5e1f.svg",
+    "static/media/Logomark_White.2f448ca4.svg": "/CRM/static/media/Logomark_White.2f448ca4.svg",
+    "static/media/fonts.css": "/CRM/static/media/montserrat-v15-latin-regular.fa100f9f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3787ce53.js",
+    "static/js/2.b92f89f7.chunk.js",
+    "static/css/main.80446640.chunk.css",
+    "static/js/main.1579453c.chunk.js"
+  ]
+}
